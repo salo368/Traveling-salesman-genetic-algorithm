@@ -17,7 +17,9 @@ This project utilizes a genetic algorithm approach to find approximate solutions
 
 You can find an example of the algorithm's execution for 20 locations over 200 generations:
 
-![Example](resources/Example.gif)
+<div align="center">
+  <img src="resources/Example.gif" alt="Example">
+</div>
 
 ## How to Use
 
