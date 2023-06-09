@@ -15,7 +15,7 @@ This project utilizes a genetic algorithm approach to find approximate solutions
 
 ## Demonstration
 
-You can find an example of the algorithm's execution for 20 locations over 1000 generations:
+You can find an example of the algorithm's execution for 20 locations over 200 generations:
 
 ![Example](resources/Example.gif)
 
