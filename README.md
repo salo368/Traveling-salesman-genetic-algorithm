@@ -30,4 +30,4 @@ You can find an example of the algorithm's execution for 20 locations over 200 g
 
 ---
 
-Thank you for your interest in the HellWorld project! If you have any questions or need further information, feel free to contact me.
+Thank you for your interest in the TravelingSalesmanGA project! If you have any questions or need further information, feel free to contact me.
