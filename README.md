@@ -1,4 +1,4 @@
-# Traveling Salesman Genetic Algorithm
+# Traveling Salesman Genetic Algorithm <a href="https://github.com/salo368/TravelingSalesmanGA/blob/main/README%20_Spa.md">(View spanish version)</a>
 
 Genetic Algorithm for Traveling Salesman Problem Optimization
 
