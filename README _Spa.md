@@ -24,9 +24,10 @@ Puedes encontrar un ejemplo de la ejecución del algoritmo para 20 ubicaciones d
 ## Cómo utilizarlo
 
 1. Clona este repositorio: `git clone https://github.com/salo368/TravelingSalesmanGA.git`
-2. Abre el archivo de Jupyter Notebook en tu entorno de Jupyter Notebook preferido.
-3. Ejecuta las celdas de código en el cuaderno para ejecutar el script.
-4. Si prefieres ejecutar el cuaderno en Google Colab, puedes acceder al script original utilizando este enlace: https://colab.research.google.com/drive/1mjryIGnKV3GuNuSQSUOxw-fasZuBzbW9?usp=sharing.
+2. Instala las dependencias: `requirements.txt`
+3. Abre el archivo de Jupyter Notebook en tu entorno de Jupyter Notebook preferido.
+4. Ejecuta las celdas de código en el cuaderno para ejecutar el script.
+5. Si prefieres ejecutar el cuaderno en Google Colab, puedes acceder al script original utilizando este enlace: `https://colab.research.google.com/drive/1mjryIGnKV3GuNuSQSUOxw-fasZuBzbW9?usp=sharing`
 
 ---
 
