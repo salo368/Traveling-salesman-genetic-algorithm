@@ -21,12 +21,17 @@ You can find an example of the algorithm's execution for 20 locations over 200 g
   <img src="resources/Example.gif" alt="Example" style="width: 100%;">
 </div>
 
+## System Requirements
+
+- Python 3 (version 3.10.3)
+
 ## How to Use
 
 1. Clone this repository: `git clone https://github.com/salo368/TravelingSalesmanGA.git`
-2. Open the Jupyter Notebook file in your preferred Jupyter Notebook environment.
-3. Execute the code cells in the notebook to run the script.
-4. If you prefer to run the notebook in Google Colab, you can access the original script using this link: https://colab.research.google.com/drive/1mjryIGnKV3GuNuSQSUOxw-fasZuBzbW9?usp=sharing.
+2. Install the dependencies you will find in: `requirements.txt`
+3. Open the Jupyter Notebook file in your preferred Jupyter Notebook environment.
+4. Execute the code cells in the notebook to run the script.
+5. If you prefer to run the notebook in Google Colab, you can access the original script using this link: `https://colab.research.google.com/drive/1mjryIGnKV3GuNuSQSUOxw-fasZuBzbW9?usp=sharing`
 
 ---
 
