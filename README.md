@@ -25,6 +25,10 @@ You can find an example of the algorithm's execution for 20 locations over 200 g
 ## System Requirements
 
 - Python 3 (version 3.10.3)
+  ### Libraries
+  - matplot
+  - numpy
+  - opencv
 
 ## How to Use
 
